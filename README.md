@@ -1,2 +1,2 @@
 # LeetCode
-https://leetcode.com/naineel2
+https://leetcode.com/naineel_shah
